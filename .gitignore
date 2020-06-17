@@ -85,13 +85,3 @@ buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 
-.idea/$CACHE_FILE$
-.idea/.gitignore
-.idea/compiler.xml
-.idea/jarRepositories.xml
-.idea/misc.xml
-.idea/vcs.xml
-data/
-pom.xml
-spring-rest-demo.iml
-src/
